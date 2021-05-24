@@ -11,7 +11,6 @@ $(call inherit-product, vendor/xiaomi/msm8937-common/msm8937-common-vendor-gatek
 $(call inherit-product, vendor/xiaomi/msm8937-common/msm8937-common-vendor-gpu_firmware.mk)
 $(call inherit-product, vendor/xiaomi/msm8937-common/msm8937-common-vendor-graphics.mk)
 $(call inherit-product, vendor/xiaomi/msm8937-common/msm8937-common-vendor-graphics_sdm.mk)
-$(call inherit-product, vendor/xiaomi/msm8937-common/msm8937-common-vendor-partial_ril.mk)
 $(call inherit-product, vendor/xiaomi/msm8937-common/msm8937-common-vendor-perf_configs.mk)
 $(call inherit-product, vendor/xiaomi/msm8937-common/msm8937-common-vendor-wfd.mk)
 
